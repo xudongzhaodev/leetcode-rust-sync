@@ -13,6 +13,6 @@ impl Solution {
                 }
             }
         }
-        return max_profit;
+        max_profit
     }
 }
